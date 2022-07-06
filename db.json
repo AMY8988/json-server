@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "title": "Test",
+      "description": "Hello world",
+      "author": "mine",
+      "id": 1
+    }
+  ]
+}
