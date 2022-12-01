@@ -1,8 +1,8 @@
 <template>
   <div class=" container about">
-    <div class="row">
+    <div class="row my-4">
       <div class="col-12">
-        <h1>Edit Json Server</h1>
+        <h5 class="fw-bold">Create Content Page</h5>
         <div class="d-flex  flex-column align-items-center">
           <div class="col-5">
           <div class=" ">
